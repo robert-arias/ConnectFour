@@ -1,2 +1,2 @@
-# ConnectFour
-Connect four
+# Connect Four
+Juego de *connect four* en Java.
